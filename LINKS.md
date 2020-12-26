@@ -1,7 +1,8 @@
+---
 layout: page
-title: "Links"
+title: Links
 permalink: /links/
-
+---
 1.  Sample first item.
 
     * sub-bullet one
