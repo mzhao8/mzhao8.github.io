@@ -1,8 +1,8 @@
 ---
-layout: page
-title: Links
-permalink: /links/
----
+title: PAGE TITLE HERE
+layout: template
+filename: LINKS.md
+--- 
 1.  Sample first item.
 
     * sub-bullet one
