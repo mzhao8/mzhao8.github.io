@@ -1,6 +1,5 @@
 ---
 title: links
-layout: template
 filename: LINKS.md
 permalink: /links/
 --- 
