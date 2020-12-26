@@ -2,6 +2,7 @@
 title: links
 filename: LINKS.md
 permalink: /links/
+theme: jekyll-theme-minimal
 --- 
 1.  Sample first item.
 
