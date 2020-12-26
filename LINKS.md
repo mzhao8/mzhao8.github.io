@@ -20,8 +20,8 @@ theme: jekyll-theme-minimal
 2.  Essays
     
     Essays that I often reread that have significantly shaped my thinking
-    * [Blas Moros' The Inifinte Game](https://secureservercdn.net/166.62.107.55/297.bb9.myftpupload.com/wp-content/uploads/2019/12/The-Infinite-Game_Rabbit-Hole-1.pdf) - taught me about how self-awareness and close examination of yourself is a requirement to taking control of your own life. Create a priority framework and iterate from there.
-    * []()
+    * [Blas Moros' The Infinte Game](https://secureservercdn.net/166.62.107.55/297.bb9.myftpupload.com/wp-content/uploads/2019/12/The-Infinite-Game_Rabbit-Hole-1.pdf) - taught me about how self-awareness and close examination of yourself is a requirement to taking control of your own life. Create a priority framework and iterate from there.
+    * [Blas Moros' Learning Process](https://secureservercdn.net/166.62.107.55/297.bb9.myftpupload.com/wp-content/uploads/2020/04/My-Learning-Process-1.pdf) - Basically how one of the most well-read people I know creates systems to accomplish things. Chunking time, eliminating deadtime, aiming to build rather than consume, using Evernote and Wunderlist to organize projects, prioritizing health and family, etc. I think he's able to read 5 books a month despite the fact that he has a family, a full-time job, and in the process of starting a start-up.
     * []()
     * []()
     * []()
