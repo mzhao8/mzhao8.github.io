@@ -1,4 +1,6 @@
-
+layout: page
+title: "Links"
+permalink: /links/
 
 1.  Sample first item.
 
