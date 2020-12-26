@@ -1,7 +1,8 @@
 ---
-title: PAGE TITLE HERE
+title: links
 layout: template
 filename: LINKS.md
+permalink: /links/
 --- 
 1.  Sample first item.
 
