@@ -8,13 +8,13 @@ theme: jekyll-theme-minimal
 
     I love reading internal memos - it helps me understand how insiders think about strategy and how they communicate their plans. Compared to public press releases, internal memos are less abstracted and filtered. Special thanks to [Sriram K](https://sriramk.com/) for finding and compiling the Facebook, Disney, and Sequoia memos:
 
-    * [Zuckerberg on the Messenger Ecosystem](https://sriramk.com/memos/zuck-messenger-ecosystem.pdf)
-    * [Zuckerberg negogiating with Kevin Systrom over the Instagram acquisition](https://sriramk.com/memos/zuck_systrom.pdf)
-    * [Zuckerberg on why Facebook should buy Unity](https://sriramk.com/memos/zuck-unity.pdf)
-    * [Jeffrey Katzenberg on how to revitalize Disney Studios](https://sriramk.com/memos/katzenberg.pdf)
-    * [Roelof Botha's internal investment thesis to Sequoia for YouTube](https://sriramk.com/memos/roelof-youtube.pdf)
-    * [Sam Zell's The Grave Dancer, a primer on how to approach distressed real estate](https://www.samzell.com/wp-content/uploads/1982_The_Grave_Dancer.pdf)
-    * [Trammell Crow memos after the savings and loans crisis](https://static1.squarespace.com/static/583dd4ce725e25dc1167e2f8/t/5ec46ed40dec8d7e10e5edf8/1589931736874/Trammel+Crow+Lessons+learned_from_the_real_estate_crisis_of_the_1980_s_1585704769+%281%29.pdf)
+    * [Zuckerberg on the Messenger Ecosystem](https://sriramk.com/memos/zuck-messenger-ecosystem.pdf) Zuck wrote these a while ago, and it's cool to see the changes he discussed in these emails implemented into the messenger product 4 years later, with varying degrees of success. 
+    * [Zuckerberg negogiating with Kevin Systrom over the Instagram acquisition](https://sriramk.com/memos/zuck_systrom.pdf) The gist of this article revolved around how Instagram would look if Facebook were to acquire it. Would it be swallowed under the Facebook umbrella or would it operate on a standalone basis? Looking back, it seems like Instagram has thrived as a mostly standalone product combined with Facebook's ad tech to generate revenue. 
+    * [Zuckerberg on why Facebook should buy Unity](https://sriramk.com/memos/zuck-unity.pdf) This memo from years ago spurred my decision to purchase shares in $U when they IPO'd. Zuckerberg's vision of future social interaction revolves around VR/AR. The recent popularity of games like Fortnite and Roblox confirmed that. $U is primary game dev tool used in mobile and AR, and I believe it's usage will grow as gaming becomes a larger and more accepted part of entertainment.
+    * [Jeffrey Katzenberg on how to revitalize Disney Studios](https://sriramk.com/memos/katzenberg.pdf) TLDR: Focus on timeless stories, don't scoff at the competition.
+    * [Roelof Botha's internal investment thesis to Sequoia for YouTube](https://sriramk.com/memos/roelof-youtube.pdf) YouTube seems to be endpoint for influencers in the creator economy. Typically the process goes something like this: Go viral on TikTok or Instagram -> create a YouTube channel and develop deeper connections with more personal videos. Right now, it's the most long-form and entertaining visual medium for creators to interact with their fans. It makes a ton of revenue for Google too. It's interesting to see how Botha saw the space back during the early innings, especially in regards to competitors and revenue generation strategies.
+    * [Sam Zell's The Grave Dancer, a primer on how to approach distressed real estate](https://www.samzell.com/wp-content/uploads/1982_The_Grave_Dancer.pdf) Great read on how to approach investing in distressed real estate from a legend.
+    * [Trammell Crow memos after the savings and loans crisis](https://static1.squarespace.com/static/583dd4ce725e25dc1167e2f8/t/5ec46ed40dec8d7e10e5edf8/1589931736874/Trammel+Crow+Lessons+learned_from_the_real_estate_crisis_of_the_1980_s_1585704769+%281%29.pdf) The TLDR on the S&L crisis was that S&L's had low profits because they borrowed at really high interest rates (set by the fed), but were stuck on making money on low interest mortgage loans. Reagan signs an act, which eliminated LTV ratios and interest rate caps for S&Ls. This led to speculative lending and fraud, and eventually when everything unwound, turned into more than 700 S&L failures. Many of these happened in Texas, and that's where Trammell Crow 
     
 
 2.  Essays
@@ -26,4 +26,5 @@ theme: jekyll-theme-minimal
     * []()
     * []()
 
-3.  Another list item.
+3.  Articles
+
