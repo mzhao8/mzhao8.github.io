@@ -22,8 +22,6 @@ On love:
 
 "I think all the time about how love is fundamentally an act of maintenance: I know you love me because you choose me again and again, because I choose to attend to you out of all the people in world."
 
-![image](/assets/images/entropy.jpg)
-
 ### Self-Renewal
 [The Road to Self-Renewal](https://medium.com/jvnto/the-road-to-self-renewal-bda7aa530dbe) is a piece by the founder of McKinsey that details his thoughts on why some people end up wallowing in life whereas others continuously evolve. What it boils down into is, according to him, an active mindset to keep learning more and more about yourself as life's challenges and circumstances change.
 
@@ -34,3 +32,5 @@ And he's right, there is no point in life where you just have everything figured
 “Meaning is not something you stumble across, like the answer to a riddle or the prize in a treasure hunt. Meaning is something you build into your life. You build it out of your own past, out of your affections and loyalties, out of the experience of humankind as it is passed on to you, out of your own talent and understanding, out of the things you believe in, out of the things and people you love, out of the values for which you are willing to sacrifice something.
 
 The ingredients are there. You are the only one who can put them together into that unique pattern that will be your life. Let it be a life that has dignity and meaning for you. If it does, then the particular balance of success or failure is of less account.”
+
+![image](/assets/images/entropy.jpg)
