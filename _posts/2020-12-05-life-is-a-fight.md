@@ -22,6 +22,8 @@ On love:
 
 "I think all the time about how love is fundamentally an act of maintenance: I know you love me because you choose me again and again, because I choose to attend to you out of all the people in world."
 
+![image](/assets/images/entropy.jpg)
+
 ### Self-Renewal
 [The Road to Self-Renewal](https://medium.com/jvnto/the-road-to-self-renewal-bda7aa530dbe) is a piece by the founder of McKinsey that details his thoughts on why some people end up wallowing in life whereas others continuously evolve. What it boils down into is, according to him, an active mindset to keep learning more and more about yourself as life's challenges and circumstances change.
 
