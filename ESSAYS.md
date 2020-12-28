@@ -6,4 +6,4 @@ theme: jekyll-theme-minimal
 ---
 ### Essays
 
-    All my essays are on my substack here: [mzhao8.substack.com](https://mzhao8.substack.com/)
+All my essays are on my substack here: [mzhao8.substack.com](https://mzhao8.substack.com/)
