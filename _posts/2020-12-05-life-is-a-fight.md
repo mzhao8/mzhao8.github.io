@@ -4,9 +4,8 @@ title:  "Life is a Fight Against Entropy"
 date:   2020-12-05 12:00:00 -0700
 permalink: /entropy/
 categories: blog
+author: Michael Zhao
 ---
-12-05-2020
-
 ### Entropy
 That's been the repeating thought in my head this past week, I think due primarily to the amount of work I've been doing and, to a lesser degree, the responsibilities associated with having your own apartment.
 
