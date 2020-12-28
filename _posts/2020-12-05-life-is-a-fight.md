@@ -4,6 +4,7 @@ title:  "Life is a Fight Against Entropy"
 date:   2020-12-05 12:00:00 -0700
 permalink: /entropy/
 categories: blog
+tags: entropy
 author: Michael Zhao
 ---
 ### Entropy
