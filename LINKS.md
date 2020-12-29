@@ -4,7 +4,7 @@ filename: LINKS.md
 permalink: /links/
 theme: jekyll-theme-minimal
 --- 
-* ### Internal Memos
+### Internal Memos
 
 I love reading internal memos because they help me understand how insiders think about strategy. Since internal memos are less filtered than press releases, I learn much more. Special thanks to [Sriram K](https://sriramk.com/) for finding and compiling the Facebook, Disney, and Sequoia memos:
 
@@ -17,7 +17,7 @@ I love reading internal memos because they help me understand how insiders think
 * [Trammell Crow memos after the savings and loans crisis](https://static1.squarespace.com/static/583dd4ce725e25dc1167e2f8/t/5ec46ed40dec8d7e10e5edf8/1589931736874/Trammel+Crow+Lessons+learned_from_the_real_estate_crisis_of_the_1980_s_1585704769+%281%29.pdf) The TLDR on the S&L crisis was that S&L's had low profits because they borrowed at really high interest rates (set by the fed), but were stuck on making money on low interest mortgage loans. Reagan signs an act, which eliminated LTV ratios and interest rate caps for S&Ls. This led to speculative lending and fraud, and eventually when everything unwound, turned into more than 700 S&L failures. Many of these happened in Texas, and that's where Trammell Crow was exposed the most. These were some of the lessons they learned. Contains gems like "Product should dictate land price. Land price should not dictate product", "Confusing quality with image; and focusing on high-end projects when the market demand had shifted to middle-income or price-sensitive centers e.g. with discount anchors", "Office buildings have a long product lifecycle ... A lot can change in this time period. This dramatically exacerbates the unpredictability of two of the most volatile components of profitability: The loss to lease up costs and yields"
     
 
-* ### Essays
+### Essays
 
 Essays that I often reread that I found interesting or have shaped my thinking
 
@@ -55,7 +55,7 @@ Essays that I often reread that I found interesting or have shaped my thinking
 * [Richard Hamming - You and Your Research](http://www.cs.virginia.edu/~robins/YouAndYourResearch.html) "It was pretty clear to me that this man didn't know much mathematics and he wasn't really articulate. His problem seemed interesting so I took it home and did a little work. I finally showed him how to run computers so he could compute his own answers. I gave him the power to compute. He went ahead, with negligible recognition from his own department, but ultimately he has collected all the prizes in the field. Once he got well started, his shyness, his awkwardness, his inarticulateness, fell away and he became much more productive in many other ways. Certainly he became much more articulate."
 * [Kevin Simler - Ads don't work that way](https://meltingasphalt.com/ads-dont-work-that-way/) "Cultural imprinting is the mechanism whereby an ad, rather than trying to change our minds individually, instead changes the landscape of cultural meanings — which in turn changes how we are perceived by others when we use a product. Whether you drink Corona or Heineken or Budweiser "says" something about you. But you aren't in control of that message; it just sits there, out in the world, having been imprinted on the broader culture by an ad campaign. It's then up to you to decide whether you want to align yourself with it...In this way, cultural imprinting relies on the principle of common knowledge. For a fact to be common knowledge among a group, it's not enough for everyone to know it. Everyone must also know that everyone else knows it."
 
-* ### Videos
+### Videos
 
 * [Peter Thiel - Zero to One](https://www.youtube.com/watch?v=rFZrL1RiuVI&ab_channel=ChicagoIdeas) Competition is for losers because competition kills profits. You want to aim to create a differentiated company = monopoly. Doesn't apply to companies, but also careers. Great primer on his book Zero to One.
 * [AlphaGo - The Movie](https://www.youtube.com/watch?v=WXuK6gekU1Y&ab_channel=DeepMind) Modern day version of Deep Blue vs. Kasparov, but with an immensely more complex game.
