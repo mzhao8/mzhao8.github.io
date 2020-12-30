@@ -28,7 +28,11 @@ theme: jekyll-theme-minimal
 
 * "I can pinpoint the exact moment when I first thought I could write a novel. It was around one thirty in the afternoon of April 1, 1978. I was at Jingu Stadium that day, alone in the outfield drinking beer and watching the game. Jingu Stadium was within walking distance of my apartment at the time, and I was fairly big Yakult Swallows fan. It was a beautiful spring day, not a cloud in the sky, with a warm breeze blowing. There weren't any benches in the outfield seating back then, just a grassy slope. I was lying on the grass, sipping cold beer, gazing up at the sky, and leisurely enjoying the game...In the bottom of the first inning the leadoff batter for the Swallows was Dave Hilton, a young American player new to the team. Hilton got a hit down the left field line. The crack of the back meeting ball right on the sweet spot echoed through the stadium. Hilton easily rounded first and pulled up to second. And it was that exact moment that a thought struck me: You know? I could try writing a novel. I still can remember the wide open sky, the feel of the new grass, the satisfying crack of the bat. Something flew down from the sky at the instant, and whatever it was I accepted it." - Haruki Murakami, What I Talk About When I Talk About Running
 
+* “Which is why I am writing this book. To think. To understand. It just happens to be the way I'm made. I have to write things down to feel I fully comprehend them.” ― Haruki Murakami, Norwegian Wood
+
 * “Courage meant overcoming fear and doing one’s duty in the presence of danger, not being unafraid.” ― Eugene B. Sledge, With the Old Breed: At Peleliu and Okinawa
+
+* “The world is always full of the sound of waves. The little fishes, abandoning themselves to the waves, dance and sing, and play, but who knows the heart of the sea, a hundred feet down? Who knows its depth?” ― Eiji Yoshikawa, Musashi
 
 * “Someone's sitting in the shade today because someone planted a tree a long time ago.” ― Warren Buffett
 
