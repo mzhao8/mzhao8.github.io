@@ -8,6 +8,7 @@ theme: jekyll-theme-minimal
 
 Subscribe to get my essays delivered to your inbox: [mzhao8.substack.com](https://mzhao8.substack.com/){:target="_blank"}
 
+* [Year of Wonders](https://mzhao8.github.io/year-of-wonders/)
 * [Capital Allocation in Shoe Dog](https://mzhao8.github.io/shoe-dog/)
 * [On Running](https://mzhao8.github.io/on-running/)
 * [Project Management](https://mzhao8.github.io/project-management/)

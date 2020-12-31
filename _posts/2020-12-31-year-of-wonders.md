@@ -1,8 +1,8 @@
 ---
 layout: post
 title:  "Year of Wonders"
-date:   2020-12-19 12:00:00 -0700
-permalink: /shoe-dog/
+date:   2020-12-31 12:00:00 -0700
+permalink: /year-of-wonders/
 categories: blog
 tags: year of wonders, newton, quarantine
 author: Michael Zhao
