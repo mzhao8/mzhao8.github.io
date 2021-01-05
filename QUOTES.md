@@ -82,7 +82,7 @@ theme: jekyll-theme-minimal
 
 * “To do the useful thing, to say the courageous thing, to contemplate the beautiful thing: that is enough for one man's life.” ― T.S. Eliot, The Use of Poetry and the Use of Criticism
 
-* "“We shall not cease from exploration  
+* “We shall not cease from exploration  
     And the end of all our exploring  
     Will be to arrive where we started  
     And know the place for the first time.”  ― T. S. Eliot, Four Quartets
