@@ -79,3 +79,10 @@ theme: jekyll-theme-minimal
 * “A fit body, a calm mind, a house full of love. These things cannot be bought — they must be earned.” - Naval Ravikant 
 
 * "The Iron never lies to you. You can walk outside and listen to all kinds of talk, get told that you’re a god or a total bastard. The Iron will always kick you the real deal. The Iron is the great reference point, the all-knowing perspective giver. Always there like a beacon in the pitch black. I have found the Iron to be my greatest friend. It never freaks out on me, never runs. Friends may come and go. But two hundred pounds is always two hundred pounds." - Henry Rollins, Iron and Soul
+
+* “To do the useful thing, to say the courageous thing, to contemplate the beautiful thing: that is enough for one man's life.” ― T.S. Eliot, The Use of Poetry and the Use of Criticism
+
+* "“We shall not cease from exploration  
+    And the end of all our exploring  
+    Will be to arrive where we started  
+    And know the place for the first time.”  ― T. S. Eliot, Four Quartets
