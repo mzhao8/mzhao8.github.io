@@ -18,6 +18,8 @@ theme: jekyll-theme-minimal
 
 * “A society to be successful must maintain a balance between nurturing excellence and encouraging the average to improve.” ― Lee Kuan Yew, The Wit and Wisdom of Lee Kuan Yew
 
+* "Soused with beer, we talked of the great things we would do on our return. Later, I was to discover that very few would stay the course. Many wives would object to their husbands jeopardising their careers by opposing British colonial authority, and quite a number of the men themselves, faced with cold reality and hard choices, lost their stomach for the fight." - Lee Kuan Yew, The Singapore Story
+
 * “The most important thing we learn at school is the fact that the most important things can't be learned at school.” ― Haruki Murakami, What I Talk About When I Talk About Running
 
 * “In other words, let's face it: Life is basically unfair. But even in a situation that's unfair, I think it's possible to seek out a kind of fairness. Of course, that might take time and effort. And maybe it won't seem to be worth all that. It's up to each individual to decide whether or not it is.” ― Haruki Murakami, What I Talk About When I Talk About Running
