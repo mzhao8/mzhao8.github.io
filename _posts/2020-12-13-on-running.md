@@ -18,11 +18,7 @@ It was really hard. We delved deep into the Tao Te Ching, Dogen, Zen Buddhism, T
 
 How does this relate back to running? There's a Chinese proverb: "I hear, and I forget; I see, and I remember; I do, and I understand" Running is just another one of my hobbies that I'm trying to use, through endless repetition (doing), get to know myself more in a physical way: my boundaries, my pain tolerance, how I react to pain, etc. When I first started running, the thing that hurt the most was my lungs. I couldn't run more than a mile without wanting to collapse. However, the more I've run, the stronger my lungs have become; now it's my calves that burn. The change in the "progress bottleneck" is apparent now and it frames these parts of myself more concretely, hence me running to "focus" more. Isn't it still transactional if I'm trying to get to know myself? Probably. But it's more internal discovery than external clout chasing. It's the process of examining myself, my strengths and weaknesses, how I work, what am I excited by. Then the process of change occurs. I've quoted this before but this is a personal reminder:
 
-"You can make progress on learning to better see yourself as someone who's always in transition,
-
-always /in media res/, always both a being and a becoming
-
-everything that you have been up to this moment may be a springboard for something else entirely maybe not, but maybe so,"
+>"You can make progress on learning to better see yourself as someone who's always in transition, always in media res, always both a being and a becoming. Everything that you have been up to this moment may be a springboard for something else entirely maybe not, but maybe so,"
 
 Examination leads to understanding and understanding leads to change.
 
