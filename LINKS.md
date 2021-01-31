@@ -1,5 +1,5 @@
 ---
-title: 🔗links
+title: links
 filename: LINKS.md
 permalink: /links/
 theme: jekyll-theme-minimal
