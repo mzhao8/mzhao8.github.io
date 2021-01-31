@@ -88,3 +88,5 @@ theme: jekyll-theme-minimal
     And the end of all our exploring  
     Will be to arrive where we started  
     And know the place for the first time.”  ― T. S. Eliot, Four Quartets
+
+* "If you construct your identity on what you’re a fan of (sports, media, brands), you’re a vessel. You’re lending out ownership over your identity. Instead, if you construct your identity on the things you create, you’re a craftsperson—someone who keeps refining who they are." - Julian Shapiro
